@@ -1,0 +1,49 @@
+body{
+  background-image: url("../beach.jpg");
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  font-family: 'Ubuntu',sans-serif;
+}
+.main{
+
+  background-color: lightblue;
+  width: 25%;
+  height: 40%;
+  margin-top: 10%;
+  margin-bottom: 20px;
+  margin-left: 40%;
+  border:5px solid blue;
+  border-radius: 70px ;
+  box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+
+}
+.username{
+
+  width:55%;
+  margin-left: 25%;
+
+  border-radius: 20px;
+  border:2px solid rgba(0, 0, 0, 0.14);
+  box-sizing: border-box;
+  text-align: center;
+  color: rgb(38,100,56);
+  align:Center;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: 'Ubuntu',fantasy;
+}
+
+.submit{
+  width:20%;
+  border-radius: 20px;
+  border:2px solid rgba(0, 0, 0, 0.14);
+  box-sizing: border-box;
+  margin-left: 25%;
+  
+}
+.sign{
+  font-size: 30px;
+  font-weight: 800px;
+  font-variant: small-caps;
+}
